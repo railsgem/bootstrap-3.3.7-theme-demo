@@ -22,6 +22,7 @@ To get started, check out <http://getbootstrap.com>!
 * [Community](#community)
 * [Versioning](#versioning)
 * [Creators](#creators)
+* [Blog Theme](#blog-theme)
 * [Copyright and license](#copyright-and-license)
 
 
@@ -135,6 +136,13 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 
 * <https://twitter.com/fat>
 * <https://github.com/fat>
+
+
+## Blog Theme
+
+**Juno Chen**
+
+* <https://github.com/railsgem>
 
 
 ## Copyright and license
