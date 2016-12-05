@@ -140,9 +140,16 @@ See [the Releases section of our GitHub project](https://github.com/twbs/bootstr
 
 ## Blog Theme
 
+### Creators
+
 **Juno Chen**
 
 * <https://github.com/railsgem>
+
+### Fonts
+
+* <https://fonts.google.com/specimen/Merriweather>
+
 
 
 ## Copyright and license
