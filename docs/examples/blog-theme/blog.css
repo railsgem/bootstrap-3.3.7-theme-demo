@@ -20,8 +20,23 @@ h6, .h6 {
 }
 
 
+.social-buttons {
+  position: absolute;
+  margin-top: 20px;
+  font-size: 25px;
+  color: #fff;
+}
+.social-buttons > ul {
+  list-style-type: none;
+}
+
+.social-buttons > ul > li {
+  display: inline;
+  padding: 20px;
+}
 
 .blog-header-img {
+  z-index: -1;
   padding-top: 0;
   padding-bottom: 0;
 }
@@ -58,6 +73,14 @@ h6, .h6 {
 
 /* Pagination */
 .pager {
+  margin-bottom: 60px;
+  text-align: left;
+}
+.pager .prev{
+  margin-bottom: 60px;
+  text-align: left;
+}
+.pager .next {
   margin-bottom: 60px;
   text-align: left;
 }
