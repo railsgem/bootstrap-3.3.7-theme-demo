@@ -19,6 +19,39 @@ h6, .h6 {
   color: #333;
 }
 
+header {
+  text-align: center;
+  background: url('images/main_header.png') no-repeat center center scroll;
+  color: white;
+}
+header img {
+  background: url('images/main_header.png') no-repeat center center scroll;
+  display: block;
+}
+
+header .intro-text {
+  display: block;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2em;
+}
+@media (min-width: 768px) {
+  header .container {
+  }
+  header .intro-text .name {
+    font-size: 4.75em;
+  }
+  header .intro-text .skills {
+    font-size: 1.75em;
+  }
+
+	header	.post-img-title h1 {
+	  font-family: 'Roboto', sans-serif;
+	  font-size: 2.75em;
+	  color: #0f0f0f;
+	}
+}
 .post-img-title h1 {
   font-family: 'Roboto', sans-serif;
   font-size: 40px;
