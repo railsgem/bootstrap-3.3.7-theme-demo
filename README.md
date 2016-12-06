@@ -1,3 +1,5 @@
+![](https://github.com/railsgem/bootstrap-3.3.7-theme-demo/raw/master/docs/examples/blog-theme/images/template/FireShot%20Capture%206%20-%20Blog%20Template%20for%20Bootstrap_%20-%20file____Applications_bootstrap-3.3..png)
+
 # [Bootstrap](http://getbootstrap.com)
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://bootstrap-slack.herokuapp.com)
