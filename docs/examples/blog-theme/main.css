@@ -138,12 +138,7 @@ h6, .h6 {
 }
 
 .sign {
-  margin: 0 auto;
-  width: 20%;
-}
-.face {
-  margin: 0 auto;
-  width: 10%;
+  margin-top: 150px;
 }
 /*
  * Footer
@@ -205,6 +200,41 @@ h6, .h6 {
   font-family: 'Roboto', sans-serif;
   font-size: 40px;
   color: #fff;
+}
+#about_upper {
+  margin-top: 10%;
+  height: 100px;
+}
+#about_upper h2{
+  font-family: 'Roboto', sans-serif;
+}
+#about_down {
+  margin-top: 0;
+  height: 20px;
+}
+#about_down h3{
+  margin-top: 2%;
+  font-size: 18px;
+  font-family: 'Merriweather',"Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#about_down a {
+  margin-bottom: 60px;
+  text-align: left;
+  width: auto;
+  padding: 10px 20px;
+  text-align: center;
+  border-radius: 30px;
+}
+#author_face {
+	margin:0 auto;
+}
+#author h4 {
+	font-size: 15px;
+ 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin:0 auto;
+	margin-left: 5px;
+	margin-bottom: 50px;
 }
 footer {
     margin: 50px 0;
